@@ -2,7 +2,7 @@ import { Sequelize } from "sequelize";
 
 const sequelize = new Sequelize({
     dialect: "mysql",
-    database: "bancoapi",
+    database: "apimarinke",
     username: "root",
     password: "123456",
     host: "localhost",
